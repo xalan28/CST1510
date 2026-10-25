@@ -1,0 +1,5 @@
+Temperature,105,100
+Battery,95,100
+Pressure,80,100
+Engine,120,100
+Fuel,90,100
